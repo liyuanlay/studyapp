@@ -1,0 +1,15 @@
+
+.content{
+	width: 100%;
+	margin: 0 auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.input{
+	margin:40rpx 0;
+	height:80rpx;
+	border-radius: 10rpx;
+	border:1px solid #c2c0c0;
+}
+

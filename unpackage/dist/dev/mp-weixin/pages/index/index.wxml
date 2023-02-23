@@ -1,0 +1,1 @@
+<view><view data-event-opts="{{[['tap',[['handleMap']]]]}}" class="item" bindtap="__e"><text>百度地图</text></view></view>
